@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.3.1'
 gem 'twitter'
+gem 'token_phrase'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
